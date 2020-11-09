@@ -1,0 +1,8 @@
+C:\Repos\RestoreVersionPatches\RestoreVersionPatches\RestoreVersionPatches\bin\Debug\RestoreVersionPatches.exe.config
+C:\Repos\RestoreVersionPatches\RestoreVersionPatches\RestoreVersionPatches\bin\Debug\RestoreVersionPatches.exe
+C:\Repos\RestoreVersionPatches\RestoreVersionPatches\RestoreVersionPatches\bin\Debug\RestoreVersionPatches.pdb
+C:\Repos\RestoreVersionPatches\RestoreVersionPatches\RestoreVersionPatches\obj\Debug\RestoreVersionPatches.csprojAssemblyReference.cache
+C:\Repos\RestoreVersionPatches\RestoreVersionPatches\RestoreVersionPatches\obj\Debug\RestoreVersionPatches.csproj.CoreCompileInputs.cache
+C:\Repos\RestoreVersionPatches\RestoreVersionPatches\RestoreVersionPatches\obj\Debug\RestoreVersionPatches.exe
+C:\Repos\RestoreVersionPatches\RestoreVersionPatches\RestoreVersionPatches\obj\Debug\RestoreVersionPatches.pdb
+C:\Repos\RestoreVersionPatches\RestoreVersionPatches\RestoreVersionPatches\bin\Debug\version.txt
